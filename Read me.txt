@@ -1,9 +1,60 @@
+------------------------------------------------------------
+■Read me Alchemy and Tickle■
+------------------------------------------------------------
+
+Alchemy and Tickleのver1.0 をダウンロードしていただき、ありがとうございます。
+
+------------------------------------------------------------
+
+
+-----------------------------------------------------
+■はじめに(※重要)
+
+本作品はRPGツクールＭＶにて作成されております。
+
+-----------------------------------------------------
+■インストール/起動方法
+
+本作品はインストールは不要です。
+
+起動方法は、最初に任意の場所に解凍したフォルダを開き、
+“Game.exe”をダブルクリックすることでゲームが始まります。
+
+
+★ＨＰ兼ブログ
+http://shirorimi.blog.fc2.com/
+
+★Twitter
+https://twitter.com/01_shiro
+
+
+-----------------------------------------------------
+●以下、作者の言い訳のような注意事項Alchemy verが続きます。
+
+
+
+
+
+
 素材使用
-王国興亡記 さま
-素材制作：　そーいち　（ブログ名・　王国興亡記　http://ameblo.jp/makapri/ ）
 
-http://www.hmix.net/music_gallery/image/asian.htm
-
-創作工房春巻 
-　　　制作者：ハルマキ 
-　　　URL：http://harumakikukan.web.fc2.com/index.html
+素材制作：そーいち　（ブログ名・　王国興亡記　http://ameblo.jp/makapri/ ）
+フリー音楽素材 H/MIX GALLERY　秋山裕和　http://www.hmix.net/
+創作工房春巻 　　　制作者：ハルマキ 　URL：http://harumakikukan.web.fc2.com/index.html
+魔王魂
+木星ペンギン
+トリアコンタン
+Yana
+Yanfly Engine Plugins
+ru_shalm
+名無し鮭
+フトコロ
+茶の助
+赤月智平
+ヱビ
+rinne_grid
+ゆわか
+kido
+みこと
+tomoaky
+Moghunter

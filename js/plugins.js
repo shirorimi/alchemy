@@ -36,5 +36,6 @@ var $plugins =
 {"name":"RecollectionMode","status":true,"description":"回想モード機能を追加します。","parameters":{}},
 {"name":"NoGameover","status":true,"description":"ゲームオーバーにならないよ。","parameters":{"Switch ID":"68"}},
 {"name":"CustomizeConfigDefault","status":true,"description":"オプションデフォルト値設定プラグイン","parameters":{"常時ダッシュ":"ON","コマンド記憶":"OFF","BGM音量":"90","BGS音量":"100","ME音量":"80","SE音量":"100","常時ダッシュ消去":"OFF","コマンド記憶消去":"OFF","BGM音量消去":"OFF","BGS音量消去":"OFF","ME音量消去":"OFF","SE音量消去":"OFF"}},
-{"name":"GraphicsRenderFix","status":true,"description":"放置していると画面がフリーズするのを修正","parameters":{}}
+{"name":"GraphicsRenderFix","status":true,"description":"放置していると画面がフリーズするのを修正","parameters":{}},
+{"name":"SubstituteExtend","status":true,"description":"身代わり拡張プラグイン","parameters":{"身代わり条件_瀕死":"false","身代わり条件_必中以外":"true"}}
 ];
