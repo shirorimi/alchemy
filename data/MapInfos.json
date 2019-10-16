@@ -292,5 +292,5 @@ null,
 {"id":290,"expanded":true,"name":"魔王城　四天王部屋1","order":261,"parentId":289,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":291,"expanded":true,"name":"魔王城　四天王部屋4","order":264,"parentId":286,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":292,"expanded":false,"name":"MAP292","order":240,"parentId":231,"scrollX":1300.8,"scrollY":732},
-{"id":293,"expanded":false,"name":"回想部屋","order":272,"parentId":220,"scrollX":534,"scrollY":319}
+{"id":293,"expanded":false,"name":"回想部屋","order":272,"parentId":220,"scrollX":1182.5454545454545,"scrollY":665.4545454545455}
 ]
